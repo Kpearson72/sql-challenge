@@ -48,3 +48,4 @@ FROM employees AS e
 --7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 
+
