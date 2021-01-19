@@ -9,12 +9,17 @@
 
 In this assignment, I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, I performed:
 
-1. Data Engineering
+1. Data Modeling
+   * Create an ERD diagram
+  
+  ![ERD](EmployeeSQL/ERD/QuickDBD-ERD1-HW.png) 
+
+2. Data Engineering
    * Create a Table Schema for each CSV file
    * Import each CSV file into the corresponding SQL table.
    * [table schema](https://github.com/Kpearson72/sql-challenge/blob/main/EmployeeSQL/SQL_files/table_schemata.sql)
 
-2. Data Analysis
+3. Data Analysis
    * [query](https://github.com/Kpearson72/sql-challenge/blob/main/EmployeeSQL/SQL_files/queries.sql)
 
 ## Bonus
@@ -34,7 +39,7 @@ In this assignment, I designed the tables to hold data in the CSVs, import the C
 
 ## Epilogue
 
-### Evidence in hand, I marched into my boss's office and present the visualization. With a sly grin, my boss thanks me for my work. On my way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+### Evidence in hand, I marched into my boss's office and present the visualization. With a sly grin, my boss thanks me for my work. On my way out of the office, you hear the words, "Search your ID number." I looked down at my badge to see that my employee ID number is 499942.
 
 ![employee 499942](EmployeeSQL/Images/employee_499942.png)
 
