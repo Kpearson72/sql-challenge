@@ -19,10 +19,23 @@ In this assignment, I designed the tables to hold data in the CSVs, import the C
 
 ## Bonus
 
-#### As I examined the data, I was overcome with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decided to take the following steps to generate a visualization of the data, with which I will confront my boss:
+### As I examined the data, I was overcome with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decided to take the following steps to generate a visualization of the data, with which I will confront my boss:
 
 1. Import the SQL database into Pandas. 
+   
 2. Create a histogram to visualize the most common salary ranges for employees.
+   
    ![histogram](EmployeeSQL/Images/common_salary.png)
+
 3. Create a bar chart of average salary by title.
+   
    ![bar chart](EmployeeSQL/Images/avgSalary_title.png)
+
+
+## Epilogue
+
+### Evidence in hand, I marched into my boss's office and present the visualization. With a sly grin, my boss thanks me for my work. On my way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
+
+![employee 499942](EmployeeSQL/Images/employee_499942.png)
+
+![April Fools](EmployeeSQL/Images/April_Fools.png)
