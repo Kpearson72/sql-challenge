@@ -21,7 +21,7 @@ In this assignment, I designed the tables to hold data in the CSVs, import the C
 
 ### As I examined the data, I was overcome with a creeping suspicion that the dataset is fake. I surmised that my boss handed me spurious data in order to test the data engineering skills of a new employee. To confirm my hunch, I decided to take the following steps to generate a visualization of the data, with which I will confront my boss:
 
-1. Import the SQL database into Pandas. 
+1. Import the SQL database into Pandas. [Jupyter Notebook](https://github.com/Kpearson72/sql-challenge/blob/main/EmployeeSQL/Bonus-SQLAlchemy/Bonus_SQLalchemy.ipynb)
    
 2. Create a histogram to visualize the most common salary ranges for employees.
    
